@@ -1,5 +1,5 @@
 
-[![Build Status](https://app.travis-ci.com/benjjneb/dada2.svg?branch=master)](https://app.travis-ci.com/benjjneb/dada2)
+[![Build Status](https://github.com/benjjneb/dada2/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/benjjneb/dada2/actions/workflows/pages/pages-build-deployment)
 
 # dada2
 
